@@ -8,6 +8,7 @@ public class GitAddition {
 		System.out.println("The sum of the numbers 10 and 25 is:   "+sum);
 		System.out.println("");
 		System.out.println("Checking to see the status change");
+		System.out.println("Check after push");
 		// TODO Auto-generated method stub
 
 	}
