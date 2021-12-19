@@ -9,6 +9,7 @@ public class GitAddition {
 		System.out.println("");
 		System.out.println("Checking to see the status change");
 		System.out.println("Check after push");
+		System.out.println("Second Check");
 		// TODO Auto-generated method stub
 
 	}
